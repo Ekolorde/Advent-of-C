@@ -1,7 +1,7 @@
 # Advent-of-C
 My solutions to Advent of Code puzzles, in C specifically.
 
-Credit to [Advent of Code](https://adventofcode.com/) for the puzzles. And credit to the fine folks of [Stack Overflow,](https://stackoverflow.com/) [Geeks for Geeks](https://www.geeksforgeeks.org) and the internet in general for teaching me the stuff I needed to know to solve them
+Credit to [Advent of Code](https://adventofcode.com/) for the puzzles. And credit to the kind folks of [Stack Overflow,](https://stackoverflow.com/) [Geeks for Geeks](https://www.geeksforgeeks.org) and the internet in general for teaching me the stuff I needed to know to solve them
 
 All code in this repo is subject to the Unlicense.
 
