@@ -10,3 +10,5 @@ Everything past this point is just quick descriptions of what each file does. Mo
 ## 2015 Puzzles
 
 [**Day 1: Not Quite Lisp.**](https://adventofcode.com/2015/day/1) Finds the solution to its respective puzzle using a built in puzzle input, making it pretty useless unless you go in and edit the input variable yourself before compiling.
+
+[**Day 2: I Was Told There Would Be No Math.**](https://adventofcode.com/2015/day/2) Does a bunch of fancy math using a separate input file located in the same folder with the same filename but a .txt file extension. Or it would if I could get the damn thing to work.
